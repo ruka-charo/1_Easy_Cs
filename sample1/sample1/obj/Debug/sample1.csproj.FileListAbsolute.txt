@@ -1,6 +1,6 @@
-/Users/rukaoide/Documents/C/1_Easy_Cs/sample1/sample1/bin/Debug/sample1.exe
-/Users/rukaoide/Documents/C/1_Easy_Cs/sample1/sample1/bin/Debug/sample1.pdb
-/Users/rukaoide/Documents/C/1_Easy_Cs/sample1/sample1/obj/Debug/sample1.csproj.AssemblyReference.cache
-/Users/rukaoide/Documents/C/1_Easy_Cs/sample1/sample1/obj/Debug/sample1.csproj.CoreCompileInputs.cache
-/Users/rukaoide/Documents/C/1_Easy_Cs/sample1/sample1/obj/Debug/sample1.exe
-/Users/rukaoide/Documents/C/1_Easy_Cs/sample1/sample1/obj/Debug/sample1.pdb
+/Users/rukaoide/Documents/C/1_Easy_Cs/Sample1/Sample1/bin/Debug/Sample1.exe
+/Users/rukaoide/Documents/C/1_Easy_Cs/Sample1/Sample1/bin/Debug/Sample1.pdb
+/Users/rukaoide/Documents/C/1_Easy_Cs/Sample1/Sample1/obj/Debug/Sample1.csproj.AssemblyReference.cache
+/Users/rukaoide/Documents/C/1_Easy_Cs/Sample1/Sample1/obj/Debug/Sample1.csproj.CoreCompileInputs.cache
+/Users/rukaoide/Documents/C/1_Easy_Cs/Sample1/Sample1/obj/Debug/Sample1.exe
+/Users/rukaoide/Documents/C/1_Easy_Cs/Sample1/Sample1/obj/Debug/Sample1.pdb
